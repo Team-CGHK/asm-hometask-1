@@ -20,9 +20,6 @@
     </YASM>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="caller.cpp">
-      <Filter>Source Files</Filter>
-    </ClCompile>
     <ClCompile Include="greetings.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
